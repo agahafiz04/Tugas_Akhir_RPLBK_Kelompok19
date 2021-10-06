@@ -1,0 +1,28 @@
+{
+    "praktikan": [
+        {
+            "id": 1,
+            "nama": "Hafiz Aga Altamis",
+            "gambar": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/09/26/2566777651.jpg",
+            "nim": "21120118130086",
+            "lengkap": {
+                "email": "agahafiz@gmail.com",
+                "ttl": "Semarang, 04 Oktober 2000",
+                "hobi": "Makan",
+                "motto": "Tetap Semangat Jangan Putus Asa"
+            }
+        },
+        {
+        "id": 2,
+        "nama": "F Galihjati P",
+        "gambar": "https://qph.fs.quoracdn.net/main-qimg-c86203ec29801e30b2d3c5ff4fac7a8c",
+        "nim": "211201181400123",
+        "lengkap": {
+            "email": "ojan@gmail.com",
+            "ttl": "Semarang, 1 Januari 1999",
+            "hobi": "Minum",
+            "motto": "Halo"
+        }
+    }
+    ]
+}
